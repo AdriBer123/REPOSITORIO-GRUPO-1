@@ -1,11 +1,5 @@
-# REPOSITORIO-GRUPO-1
-Introduccion epica al grupo 
-
-# **Tabla de contenidos**
-1. Hola 
-2. Contenido del curso
-3. Participantes
-4. Docentes del curso
+# REPOSITORIO-GRUPO-HORARIO-1 EQUIPO 1
+**Casos lesion medular** 
 
 **Participantes y roles**
 - MARIANO ALARCON TIRADO (jefe)
