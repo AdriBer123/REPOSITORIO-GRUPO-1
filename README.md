@@ -9,8 +9,6 @@
 - MISAEL ANDRE CIEZA ARMAS ((Diseño y manufactura digital))
 
 
-![imagen1real](https://github.com/AdriBer123/REPOSITORIO-GRUPO-1/blob/main/DOCUMENTACI%C3%93N/entregables/Entregable%201/Funbio_-_Entregable_1_page-0001.jpg?raw=true)
-
 
 
 
