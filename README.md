@@ -8,6 +8,11 @@
 - LUCIANA DEL ROSARIO CASTRO CAMAVILCA ((Diseño y manufactura digital))
 - MISAEL ANDRE CIEZA ARMAS ((Diseño y manufactura digital))
 
+Principios clave de anatomía y fisiología humana relacionados a la temática:
+1. Anatomía y fisiología de la médula espinal: (Mariano)
+Entender estructura y función de la médula para identificar qué áreas son más vulnerables al daño.
+
+
 
 
 
