@@ -24,7 +24,7 @@ Aprender a usar el ESP32 junto con MIT App Inventor para conectar un sensor biom
 ![InventorMIT3](https://i.imgur.com/IaW1fpb.jpeg)  
 ![InventorMIT4](https://i.imgur.com/8zmRA5o.jpeg)  
 ![InventorMIT5](https://i.imgur.com/ZlkWhJT.jpeg)  
-![Actividad en grupo](https://i.imgur.com/5D9C7tP.jpeg)
+![Actividad en grupo](https://i.imgur.com/d3JE33O.jpeg)
 
 ---
 
