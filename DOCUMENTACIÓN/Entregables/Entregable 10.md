@@ -14,7 +14,7 @@
 - Diario, sesiones de 2 a 4 horas.  
 
 **Representación gráfica:**  
-![Boceto ganador - UMAPOINTER](https://ibb.co/rRdJbrY7)
+![Boceto ganador - UMAPOINTER](https://imgur.com/a/mNM2GFw)
 *Figura: Boceto ganador del dispositivo UMAPOINTER, que muestra el uso del puntero montado sobre una vincha con control cefálico.*
 
 
