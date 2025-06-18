@@ -5,7 +5,7 @@
 - Opción 1:
 
 ![vincha1](https://i.imgur.com/4WYK3si.jpeg)
-
+https://cad.onshape.com/documents/f22cc396143e800baaf63ff3/w/443a80c856d228988a2da21c/e/dd2d8560cc3e448918e7c283
 
 
 
