@@ -1,7 +1,9 @@
-##Modelado del puntero y botones
+## Modelado del puntero y botones
 
 -Vincha (Puntero)
-https://cad.onshape.com/documents/4e964875ad8a3f488dc02a90/w/9e8fecfc00ca8f2c7af26076/e/91e001061ed25a3e40f82768
+
+![vincha](https://cad.onshape.com/documents/4e964875ad8a3f488dc02a90/w/9e8fecfc00ca8f2c7af26076/e/91e001061ed25a3e40f82768) 
+
 
 ---
 
@@ -12,5 +14,11 @@ https://cad.onshape.com/documents/f9e4a9523cb318ba6a2c37ff/w/9c288b2bb68048df9b8
 
 ---
 
--Caja de los componentes
-https://cad.onshape.com/documents/6f64ebdf72e2be07fc294250/w/6f99e9446742452dda68a312/e/7c3118aee53fc6c4548188b3
+-Caja del ensamblaje
+![image](https://github.com/user-attachments/assets/aff48fc9-72f6-4488-b687-2da471271824)
+
+---
+
+-Tapa
+![image](https://cad.onshape.com/documents/d7e408d2766a5a946a892f02/w/8e1dbb56bb83c1197f84d164/e/bc724d6defd14fc89f2e2af7)
+
