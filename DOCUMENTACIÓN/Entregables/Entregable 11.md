@@ -29,7 +29,7 @@ https://cad.onshape.com/documents/f9e4a9523cb318ba6a2c37ff/w/9c288b2bb68048df9b8
 
 ![image](https://github.com/user-attachments/assets/aff48fc9-72f6-4488-b687-2da471271824)
 
-
+https://cad.onshape.com/documents/6f64ebdf72e2be07fc294250/w/6f99e9446742452dda68a312/e/7c3118aee53fc6c4548188b3
 
 ---
 
