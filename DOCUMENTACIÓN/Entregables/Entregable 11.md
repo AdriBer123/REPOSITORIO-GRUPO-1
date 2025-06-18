@@ -1,8 +1,16 @@
 ## Modelado del puntero y botones
 
-- Vincha avance (Puntero)
+- Vincha (Puntero)
 
-![vincha](https://i.imgur.com/33v2dMo.jpeg)
+- Opción 1:
+
+![vincha1](https://i.imgur.com/4WYK3si.jpeg)
+https://cad.onshape.com/documents/4e964875ad8a3f488dc02a90/w/9e8fecfc00ca8f2c7af26076/e/91e001061ed25a3e40f82768 
+
+
+- Opción 2:
+
+![vincha2](https://i.imgur.com/33v2dMo.jpeg)
 https://cad.onshape.com/documents/4e964875ad8a3f488dc02a90/w/9e8fecfc00ca8f2c7af26076/e/91e001061ed25a3e40f82768 
 
 ---
