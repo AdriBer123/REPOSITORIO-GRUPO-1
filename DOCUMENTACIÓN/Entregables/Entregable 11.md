@@ -15,6 +15,7 @@ https://cad.onshape.com/documents/f9e4a9523cb318ba6a2c37ff/w/9c288b2bb68048df9b8
 ---
 
 - Caja del ensamblaje
+- 
 ![image](https://github.com/user-attachments/assets/aff48fc9-72f6-4488-b687-2da471271824)
 
 ---
