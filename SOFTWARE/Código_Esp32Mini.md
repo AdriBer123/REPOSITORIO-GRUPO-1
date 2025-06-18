@@ -1,45 +1,46 @@
-﻿#include <Wire.h> 
+#include <BleMouse.h>
+#include <Adafruit_MPU6050.h>
+#include <Adafruit_Sensor.h>
+#include <Wire.h>
 
-#include <MPU6050.h> #include <SoftwareSerial.h> 
+// --- Ajusta estos valores según tu placa
+#define SDA_PIN 21
+#define SCL_PIN 22
+#define SENSITIVITY 10
 
-MPU6050 mpu; 
+BleMouse bleMouse;          // crea el periférico BLE HID
+Adafruit_MPU6050 mpu;       // objeto MPU6050
 
-SoftwareSerial btSerial(10, 11); // HC-05 conectado a los pines 10 y 11 (ajusta si es necesario) 
+void setup() {
+  Serial.begin(115200);
 
-void setup() { 
+  // Inicializa BLE-Mouse
+  bleMouse.begin();
 
-`  `Serial.begin(115200); 
+  // I2C para el MPU6050
+  Wire.begin(SDA_PIN, SCL_PIN);
+  if (!mpu.begin()) {
+    Serial.println("¡No encuentra el MPU6050!");
+    while (1) delay(10);
+  }
+  // Opcional: ajustes de rango
+  mpu.setAccelerometerRange(MPU6050_RANGE_4_G);
+  mpu.setGyroRange(MPU6050_RANGE_250_DEG);
+}
 
-`  `btSerial.begin(9600); // Comunicación con el HC-05 a 9600 bps 
+void loop() {
+  // Si estamos conectados por BLE:
+  if (bleMouse.isConnected()) {
+    sensors_event_t a, g, temp;
+    mpu.getEvent(&a, &g, &temp);
 
-`  `Wire.begin(); 
+    // g.gyro.x/y/z en rad/s; mapea a un delta de pixeles
+    int dx = g.gyro.z * -SENSITIVITY;
+    int dy = g.gyro.x * -SENSITIVITY;
 
-`  `mpu.initialize();  // Inicializamos el MPU6050 
-
-`  `if (!mpu.testConnection()) { 
-
-`    `Serial.println("Error de conexión con el MPU6050");     while (1); 
-
-`  `} 
-
-} 
-
-void loop() { 
-
-`  `// Leer los valores del giroscopio 
-
-`  `int16\_t ax, ay, az, gx, gy, gz; 
-
-`  `mpu.getAcceleration(&ax, &ay, &az);   mpu.getRotation(&gx, &gy, &gz); 
-
-`  `// Enviar los valores al Arduino Pro Micro   btSerial.print(gx); 
-
-`  `btSerial.print(","); 
-
-`  `btSerial.print(gy); 
-
-`  `btSerial.print(","); 
-
-`  `btSerial.println(gz); 
-
-`  `delay(100);  // Enviar los datos cada 100ms (ajustable) } 
+    // Mueve el mouse
+    if (dx || dy) {
+      bleMouse.move(dx, dy);
+    }
+  }
+  delay(15);  // control de tasa de envío
