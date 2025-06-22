@@ -2,13 +2,12 @@
 
 - Vincha (Puntero)
 
-- Opción 1:
 
 ![img](https://i.imgur.com/DL6KniN.png)
 https://cad.onshape.com/documents/d22901ca61e4bf044c46b250/w/aaf5222107a63fe03bf119e7/e/8d77a3c576a6f0ef661b31f7
 ![vincha plano](https://i.imgur.com/9qNBFgM.png)
 ![vincha plano2](https://i.imgur.com/pwhtK5q.png) 
-
+<p align="center"><strong>Plano diseñado por:</strong> Misael Andre Cieza Armas</p>
 ---
 
 - Botón
