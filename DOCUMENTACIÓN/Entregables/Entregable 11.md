@@ -5,7 +5,7 @@
 - Opción 1:
 
 ![img](https://i.imgur.com/DL6KniN.png)
-https://cad.onshape.com/documents/f22cc396143e800baaf63ff3/w/443a80c856d228988a2da21c/e/dd2d8560cc3e448918e7c283
+https://cad.onshape.com/documents/d22901ca61e4bf044c46b250/w/aaf5222107a63fe03bf119e7/e/8d77a3c576a6f0ef661b31f7
 
 
 
