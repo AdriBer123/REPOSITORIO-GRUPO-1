@@ -10,6 +10,8 @@ https://cad.onshape.com/documents/d22901ca61e4bf044c46b250/w/aaf5222107a63fe03bf
 <p align="center"><strong>Plano diseñado por:</strong> Misael Andre Cieza Armas</p>
 
 ---
+- Version con componentes
+![caja base](https://i.imgur.com/GALJ5rW.png)
 
 - Botón
 
