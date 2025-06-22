@@ -35,4 +35,4 @@ https://cad.onshape.com/documents/bb12301143e0f8e0de7e0e14/w/bb7259781d9ec7584be
 https://cad.onshape.com/documents/2708c447667ea425a264cf2f/w/38c7acad58c95be3ffb36d0a/e/0ad5441a8f98fda14e1f39b1
 ![tapacomponentesplano](https://i.imgur.com/vbwZ6ww.jpeg)
 
-<p align="center"><strong>Planos diseñado por:</strong> Tiago Yeray Blanco Malpartida</p>
+<p align="center"><strong>Planos diseñados por:</strong> Tiago Yeray Blanco Malpartida</p>
