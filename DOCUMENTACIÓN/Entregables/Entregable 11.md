@@ -4,7 +4,7 @@
 
 - Opción 1:
 
-![Imgur](https://imgur.com/DL6KniN)
+![img]https://i.imgur.com/DL6KniN.png[/img]
 https://cad.onshape.com/documents/f22cc396143e800baaf63ff3/w/443a80c856d228988a2da21c/e/dd2d8560cc3e448918e7c283
 
 
