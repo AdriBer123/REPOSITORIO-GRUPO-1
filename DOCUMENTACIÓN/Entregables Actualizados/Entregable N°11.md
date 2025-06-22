@@ -12,7 +12,7 @@ https://cad.onshape.com/documents/d22901ca61e4bf044c46b250/w/aaf5222107a63fe03bf
 ---
 - Version con componentes
 ![botoncomponentes](https://i.imgur.com/bINJODZ.png)
-
+https://cad.onshape.com/documents/6f64ebdf72e2be07fc294250/w/6f99e9446742452dda68a312/e/7c3118aee53fc6c4548188b3
 - Botón
 
 ![Boton](https://i.imgur.com/N8IGuSz.png) 
