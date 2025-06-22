@@ -8,6 +8,7 @@ https://cad.onshape.com/documents/d22901ca61e4bf044c46b250/w/aaf5222107a63fe03bf
 ![vincha plano](https://i.imgur.com/9qNBFgM.png)
 ![vincha plano2](https://i.imgur.com/pwhtK5q.png) 
 <p align="center"><strong>Plano diseñado por:</strong> Misael Andre Cieza Armas</p>
+
 ---
 
 - Botón
