@@ -1,12 +1,19 @@
-# REPOSITORIO GRUPO-HORARIO:1 EQUIPO:1
-**Caso: lesión medular** 
+# REPOSITORIO  
+**Grupo - Horario:** 1  
+**Equipo:** 1  
+**Caso:** Lesión medular
 
-**Participantes y roles**
-- ADRIANA ROXANA BERCERA GARCIA (Coordinadora y prototipado electrónico)
-- MARIANO ALARCON TIRADO (Diseño y manufactura digital y prototipado electrónico)
-- TIAGO YERAY BLANCO MALPARTIDA (Prototipado electrónico)
-- LUCIANA DEL ROSARIO CASTRO CAMAVILCA ((Diseño y manufactura digital))
-- MISAEL ANDRE CIEZA ARMAS ((Diseño y manufactura digital))
+---
+
+## Participantes y roles
+
+| Nombre completo                             | Rol(es)                                         |
+|---------------------------------------------|-------------------------------------------------|
+| Adriana Roxana Becera García                | Coordinadora, Prototipado electrónico           |
+| Mariano Alarcón Tirado                      | Diseño y manufactura digital, Prototipado electrónico |
+| Tiago Yeray Blanco Malpartida              | Prototipado electrónico                         |
+| Luciana del Rosario Castro Camavilca        | Diseño y manufactura digital                    |
+| Misael Andre Cieza Armas                    | Diseño y manufactura digital                    |
 
 
 
