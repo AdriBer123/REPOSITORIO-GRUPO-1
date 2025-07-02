@@ -15,7 +15,7 @@
 
 ![Boton](https://i.imgur.com/3O8Ss07.png)
 - https://cad.onshape.com/documents/6b1e5148af9bedb4443218e9
-![botonplano](https://i.imgur.com/1m1VgWZ.jpeg)
+
 
 - Caja base
 
