@@ -10,7 +10,12 @@
 
 
 ![imagen1B](https://i.imgur.com/Rl9kNPA.png)
+### - VINCHA PUNTERO (MODELO ANTERIOR)
 
+![imagen1](https://i.imgur.com/4rjOIju.png)
+
+
+![imagen1B](https://i.imgur.com/q0vXmzq.png)
 
 ### - BOTONES 
   
@@ -19,23 +24,14 @@
 
 
 ---
-## MODELADO 3D AVANCES Y ERRORES EN EL PROCESO:
-### - VINCHA PUNTERO
-
-![imagen1](https://i.imgur.com/4rjOIju.png)
 
 
-![imagen1B](https://i.imgur.com/q0vXmzq.png)
-
-
-### - CAJA DE ENSAMBLAJE [2]
+### - BOTÓN Y CAJA DE ENSAMBLAJE
 
 ![imagen2](https://i.imgur.com/LBIBFUU.png)
-
-
-### - BOTÓN [3]
-  
 ![imagen3](https://i.imgur.com/x6AWo2q.png)
+
+
 
 ---
 
