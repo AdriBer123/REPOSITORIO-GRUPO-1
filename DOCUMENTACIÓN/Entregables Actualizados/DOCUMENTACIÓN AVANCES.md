@@ -10,28 +10,19 @@
 
 
 ![imagen1B](https://i.imgur.com/Rl9kNPA.png)
+
 ### - VINCHA PUNTERO (MODELO ANTERIOR)
 
-![imagen1](https://i.imgur.com/4rjOIju.png)
-
-
-![imagen1B](https://i.imgur.com/q0vXmzq.png)
+![imagen1](https://i.imgur.com/EuKSWCx.png)
 
 ### - BOTONES 
   
 ![imagen3](https://i.imgur.com/OyxSUsG.png)
 ![imagenbase](https://i.imgur.com/eRMdegs.png)
 
+### - BOTONES (MODELO ANTERIOR)
 
----
-
-
-### - BOTÓN Y CAJA DE ENSAMBLAJE
-
-![imagen2](https://i.imgur.com/LBIBFUU.png)
-![imagen3](https://i.imgur.com/x6AWo2q.png)
-
-
+![imagen2](https://i.imgur.com/OBkpStt.png)
 
 ---
 
