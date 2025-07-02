@@ -15,7 +15,7 @@
 | Luciana del Rosario Castro Camavilca        | Diseño y manufactura digital                    |
 | Misael Andre Cieza Armas                    | Diseño y manufactura digital                    |
 
-
+![img](https://i.imgur.com/W0pZcGh.jpeg)
 
 
 
