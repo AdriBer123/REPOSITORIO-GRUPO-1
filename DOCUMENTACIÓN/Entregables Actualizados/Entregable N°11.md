@@ -11,14 +11,10 @@
 
 ---
 
-- Version con componentes
-![botoncomponentes](https://i.imgur.com/bINJODZ.png)
-https://cad.onshape.com/documents/6f64ebdf72e2be07fc294250/w/6f99e9446742452dda68a312/e/7c3118aee53fc6c4548188b3
-
 - Botón
 
-![Boton](https://i.imgur.com/N8IGuSz.png) 
-https://cad.onshape.com/documents/6ed0189ab1aeb83095e98681/w/2a37ac2e386c0c3f433ffd38/e/19d4d0615fb67d8cce6125f1
+![Boton](https://i.imgur.com/3O8Ss07.png)
+- https://cad.onshape.com/documents/6b1e5148af9bedb4443218e9
 ![botonplano](https://i.imgur.com/1m1VgWZ.jpeg)
 
 - Caja base
