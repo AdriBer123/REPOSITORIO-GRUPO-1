@@ -3,10 +3,10 @@
 - Vincha (Puntero)
 
 
-![img](https://i.imgur.com/DL6KniN.png)
-https://cad.onshape.com/documents/d22901ca61e4bf044c46b250/w/aaf5222107a63fe03bf119e7/e/8d77a3c576a6f0ef661b31f7
-![vincha plano](https://i.imgur.com/9qNBFgM.png)
-![vincha plano2](https://i.imgur.com/pwhtK5q.png) 
+![imgvincha](https://i.imgur.com/6fVymXj.png)
+- https://cad.onshape.com/documents/6e95f2bc3fd43bf4eaa8eb82/w/3614aec3ac2cbe4a54e672ef/e/9af72efc2e59982d67a762ae
+![vincha plano](https://i.imgur.com/OrVTZ84.png)
+![vincha plano2](https://i.imgur.com/CGatQWP.png)
 <p align="center"><strong>Plano diseñado por:</strong> Misael Andre Cieza Armas</p>
 
 ---
