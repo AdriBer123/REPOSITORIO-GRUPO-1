@@ -64,6 +64,7 @@ A continuación, se detallan los principales problemas encontrados y las solucio
 ### 1. Error en la impresión del botón
 
 - En un primer intento, el botón fue orientado de forma invertida en la cama de impresión. Esta orientación provocó una mala adhesión de las capas iniciales, lo que resultó en una pieza incompleta y con pérdida de material, impidiendo que se formara correctamente el volumen del botón.
+
 ![botonmal](https://i.imgur.com/ApMmKBG.png)
 
 - **Solución aplicada:**  
@@ -72,7 +73,9 @@ A continuación, se detallan los principales problemas encontrados y las solucio
 ### 2. Problema con la vincha del modelado
 
 - Al imprimir la estructura de la vincha, se utilizó una configuración de soporte inadecuada. El soporte aplicado no era suficientemente resistente para sostener el peso y volumen de la pieza. Como consecuencia, la impresión presentó deformaciones, pérdida de detalle y ciertas secciones del material se doblaron, impidiendo un correcto encaje entre componentes.
+  
 ![vinchamal](https://i.imgur.com/y1YMBvw.png)
+
 - **Solución aplicada:**  
   Se rediseñó el sistema de soportes, añadiendo refuerzos adicionales, especialmente en las zonas con huecos para los encajes. Además, se ajustaron los parámetros de impresión, aumentando el tiempo y la densidad de soporte para asegurar una mejor definición estructural y un acabado fiel al modelado original.
 
