@@ -89,24 +89,34 @@ Prototipo multimodal basado en láser, controlado por movimientos de cabeza, emu
 
 ## Capturas y links de los componentes (Onshape)
 
+**ESP32-C3 Super Mini**
+[imgesp32](https://i.imgur.com/3qepDal.png)
+- https://cad.onshape.com/documents/549eed835500a0cd41b9e5b0/w/a94682eda86d8d6b579f9ad9/e/162e2235962722d09a943fca
 
+**Batería LiPo recargable**
+[imgbateria](https://i.imgur.com/x3SVfjF.png)
+- https://cad.onshape.com/documents/ed993d2e9ef4bdde87268878/w/5b1a02649482a25a209dda19/e/dcb735930d4d798676c14d0b
 
-**MT3608 Converter [5]**  
+**Arduino Pro Micro**
+[imgarduinopromicro](https://i.imgur.com/KA8ByLt.png)
+- https://cad.onshape.com/documents/f0f6637fafaa73e0a5398a32/w/b92d714e98a0265364e88df2/e/fd0e825461639b419d45d633
+  
+**MT3608**  
 ![imagen5](https://i.imgur.com/WAEgJT8.png)
 - https://cad.onshape.com/documents/e02452d69f3cf72f6de63b40/w/901697ce36c91d37e53e1447/e/39c8df694a27cdc978f8670c 
 
-**MPU6050 v2 [6]**  
+**MPU6050 v2**  
 ![imagen7](https://i.imgur.com/ExqJleb.jpeg)
+- https://cad.onshape.com/documents/880c3f45901fde9c32cb2191/w/2927013b7f5543a1986ab1db/e/d070e595353c137b1bdb37ae
 
-
-**Switch [7]**  
+**Cherry MX Red**  
 ![imagen8](https://i.imgur.com/Ilv8QIn.jpeg)
 
 
 
-**TP4056 (módulo de cargador) [9]**  
+**TP4056**  
 ![imagen10](https://i.imgur.com/o3bE0F4.jpeg)
-
+- https://cad.onshape.com/documents/e26b06da237180d41eb9163e/w/cca49bde8a7ac7a1390ef138/e/2a9d502c525a05d0ba7f979a
 
 ---
 
@@ -117,17 +127,5 @@ Prototipo multimodal basado en láser, controlado por movimientos de cabeza, emu
 2. [Auxilio and Beyond](https://arxiv.org/abs/2210.04483)  
 
 3. [HeadControl+](https://doi.org/10.1007/978-3-540-27817-7_115)  
-
-4. [ESP32 Dev (Onshape)](https://cad.onshape.com/documents/e838083a8c9c2e7f3030b74f/w/c3c0e9778ff4308d97538232/e/21aeb2076cc295a957906ed7)  
-
-5. [MT3608 Converter](https://cad.onshape.com/documents/215613de35af92d1d58ed02c/w/eba9cc5ec25d848dca14f70c/e/abba0b0d830f44dd5bc24a27)  
- 
-6. [MPU6050 v2](https://cad.onshape.com/documents/dfdbd496d6de2e2e93f890d3/w/02a44f5211c629383defbb28/e/f40f0816bad3977643b926d0)  
-
-7. [Switch](https://cad.onshape.com/documents/b7f716d591744709d5c215db/w/3686a479853cd300741ec2c0/e/7a7dda0e091fe190815debf3)  
-
-8. [ESP32 Mini S2](https://cad.onshape.com/documents/120f7d5b94674933f9d3a4c3/w/f282ae493a0f283854dbfc86/e/4012d9beba7533c0fda757e7)  
-
-9. [Módulo de cargador (TP4056)](https://cad.onshape.com/documents/76fdfd1366ccb230b21696d7/w/f8b207a63cda3b865bfb2de2/e/26ce4c981e1b3b7b9cd44b5a)  
 
 
