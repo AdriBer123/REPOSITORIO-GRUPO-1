@@ -34,6 +34,26 @@
 
 ![imagen2](https://i.imgur.com/OBkpStt.png)
 
+- Adicionalmente, como parte del desarrollo, se diseñó también una botonera de dos botones que debía integrarse a otro sistema complementario. Esta parte del diseño presentó sus propios retos técnicos. Inicialmente, los orificios destinados a los switches tipo Redragon no encajaban correctamente, lo cual obligó a realizar varias iteraciones para ajustar su diámetro y profundidad. Además, se presentaron dificultades al momento de integrar el NanoArduino dentro de la carcasa, ya que su tamaño y disposición de pines exigían una redistribución del espacio interno. Otro detalle complejo fue el manejo de la entrada microUSB: su orientación y accesibilidad fueron problemáticas dentro del modelo original, por lo que se requirió modificar el diseño externo para permitir una conexión directa sin forzar el conector. Estas modificaciones fueron necesarias para asegurar la funcionalidad y durabilidad del conjunto, manteniendo siempre la simplicidad de uso como prioridad del proyecto.
+
+### - ERRORES IMPRESION 3D
+
+A continuación, se detallan los principales problemas encontrados y las soluciones implementadas:
+
+### 1. Error en la impresión del botón
+
+- En un primer intento, el botón fue orientado de forma invertida en la cama de impresión. Esta orientación provocó una mala adhesión de las capas iniciales, lo que resultó en una pieza incompleta y con pérdida de material, impidiendo que se formara correctamente el volumen del botón.
+
+- **Solución aplicada:**  
+  Se reorientó el botón en su posición correcta y se añadieron soportes internos en la configuración de impresión, especialmente alrededor del área de encaje donde iba el switch. Esto mejoró significativamente la estabilidad durante la impresión y permitió obtener una pieza completamente funcional.
+
+### 2. Problema con la vincha del modelado
+
+- Al imprimir la estructura de la vincha, se utilizó una configuración de soporte inadecuada. El soporte aplicado no era suficientemente resistente para sostener el peso y volumen de la pieza. Como consecuencia, la impresión presentó deformaciones, pérdida de detalle y ciertas secciones del material se doblaron, impidiendo un correcto encaje entre componentes.
+
+- **Solución aplicada:**  
+  Se rediseñó el sistema de soportes, añadiendo refuerzos adicionales, especialmente en las zonas con huecos para los encajes. Además, se ajustaron los parámetros de impresión, aumentando el tiempo y la densidad de soporte para asegurar una mejor definición estructural y un acabado fiel al modelado original.
+
 ---
 
 ## CIRCUITOS CÓDIGO CLICKS:
