@@ -57,13 +57,14 @@
 
 ## Componentes principales
 
-- **ESP32 Dev**
-- **MT3608 Converter**
+- **ESP32-C3 Super Mini**
+- **MT3608**
 - **MPU6050 v2**
-- **ESP32 Mini S2**
+- **Módulo TP4056**
+- **Arduino Pro Micro**
 - **Batería LiPo recargable**
-- **Caja impresa 3D + Vincha soporte**
-- **Switch externo para clic**
+- **Cherry MX Red**
+
 
 
 ## Fuentes de papers usadas
