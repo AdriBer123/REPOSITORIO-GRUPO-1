@@ -98,7 +98,7 @@ Prototipo multimodal basado en láser, controlado por movimientos de cabeza, emu
 - https://cad.onshape.com/documents/ed993d2e9ef4bdde87268878/w/5b1a02649482a25a209dda19/e/dcb735930d4d798676c14d0b
 
 **Arduino Pro Micro**
-[imgarduinopromicro](https://i.imgur.com/KA8ByLt.png)
+[imgarduinopromicro](https://imgur.com/KA8ByLt)
 - https://cad.onshape.com/documents/f0f6637fafaa73e0a5398a32/w/b92d714e98a0265364e88df2/e/fd0e825461639b419d45d633
   
 **MT3608**  
