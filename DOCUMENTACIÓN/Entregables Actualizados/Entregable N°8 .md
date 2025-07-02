@@ -14,7 +14,6 @@
 
 ## 📸 Maqueta física
 
-![imagen1](https://i.imgur.com/LiRCy5K.jpeg)  
 ![imagen2](https://i.imgur.com/gEF8szs.jpeg)  
 ![imagen3](https://i.imgur.com/W9U5z63.jpeg)  
 
@@ -34,9 +33,11 @@
 
 ## Componentes clave de la maqueta
 
-- MPU6050  
-- Bluetooth HM-10  
-- Batería NiMH  
+- **ESP32-C3 Super Mini**
+- **MT3608**
+- **MPU6050 v2**
+- **Módulo TP4056**
+- **Batería LiPo recargable**
 
 ---
 
