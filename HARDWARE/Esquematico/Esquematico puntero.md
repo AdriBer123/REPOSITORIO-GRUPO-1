@@ -53,7 +53,7 @@ Este repositorio describe el diseño esquemático de un sistema de puntero de ca
 
 ---
 
-## 4. Comunicación I²C
+## 4. Comunicación
 
 | Señal | Origen                | Destino        |
 |:-----:|:----------------------|:---------------|
