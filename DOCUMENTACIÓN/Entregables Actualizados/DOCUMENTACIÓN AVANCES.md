@@ -18,7 +18,7 @@
 ### - BOTONES 
   
 ![imagen3](https://i.imgur.com/OyxSUsG.png)
-![imagenbase](https://i.imgur.com/eRMdegs.png)
+![imagenbase](https://i.imgur.com/1U12a0k.png)
 
 ### - BOTONES (MODELO ANTERIOR)
 
