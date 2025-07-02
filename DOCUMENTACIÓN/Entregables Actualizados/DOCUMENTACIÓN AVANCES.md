@@ -12,14 +12,10 @@
 ![imagen1B](https://i.imgur.com/Rl9kNPA.png)
 
 
-### - CAJA DE ENSAMBLAJE [2]
-
-![imagen2](https://i.imgur.com/LBIBFUU.png)
-
-
-### - BOTÓN [3]
+### - BOTONES 
   
-![imagen3](https://i.imgur.com/x6AWo2q.png)
+![imagen3](https://i.imgur.com/OyxSUsG.png)
+![imagenbase](https://i.imgur.com/eRMdegs.png)
 
 
 ---
