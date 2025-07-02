@@ -61,9 +61,9 @@
 - **MT3608**
 - **MPU6050 v2**
 - **Módulo TP4056**
-- **Arduino Pro Micro**
 - **Batería LiPo recargable**
 - **Cherry MX Red**
+- **Arduino Pro Micro**
 
 
 
