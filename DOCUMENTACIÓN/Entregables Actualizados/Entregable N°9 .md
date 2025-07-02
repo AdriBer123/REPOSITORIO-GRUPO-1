@@ -90,15 +90,15 @@ Prototipo multimodal basado en láser, controlado por movimientos de cabeza, emu
 ## Capturas y links de los componentes (Onshape)
 
 **ESP32-C3 Super Mini**
-[imgesp32](https://i.imgur.com/3qepDal.png)
+![imgesp32](https://i.imgur.com/3qepDal.png)
 - https://cad.onshape.com/documents/549eed835500a0cd41b9e5b0/w/a94682eda86d8d6b579f9ad9/e/162e2235962722d09a943fca
 
 **Batería LiPo recargable**
-[imgbateria](https://i.imgur.com/x3SVfjF.png)
+![imgbateria](https://i.imgur.com/x3SVfjF.png)
 - https://cad.onshape.com/documents/ed993d2e9ef4bdde87268878/w/5b1a02649482a25a209dda19/e/dcb735930d4d798676c14d0b
 
 **Arduino Pro Micro**
-[imgarduinopromicro](https://imgur.com/KA8ByLt)
+![imgarduinopromicro](https://i.imgur.com/KA8ByLt.png)
 - https://cad.onshape.com/documents/f0f6637fafaa73e0a5398a32/w/b92d714e98a0265364e88df2/e/fd0e825461639b419d45d633
   
 **MT3608**  
@@ -111,7 +111,7 @@ Prototipo multimodal basado en láser, controlado por movimientos de cabeza, emu
 
 **Cherry MX Red**  
 ![imagen8](https://i.imgur.com/Ilv8QIn.jpeg)
-
+- https://cad.onshape.com/documents/6c85013c5a357672593bf5b7/w/a5fc9bdc7876d4d00ebb16da/e/967a01eb4c059cd6d700bc28
 
 
 **TP4056**  
