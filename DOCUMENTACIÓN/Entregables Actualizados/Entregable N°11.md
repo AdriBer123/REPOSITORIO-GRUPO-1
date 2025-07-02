@@ -25,14 +25,13 @@
 
 - Tapa botones
   
-![tapa botones](https://i.imgur.com/BUyfkT3.png)
-https://cad.onshape.com/documents/bb12301143e0f8e0de7e0e14/w/bb7259781d9ec7584bea1e75/e/fa4b19217b2a1f31e145bc1b
-![tapabotonesplano](https://i.imgur.com/GQRIrUD.jpeg)
+![tapa botones](https://i.imgur.com/2IuzuuJ.png)
+- https://cad.onshape.com/documents/fd4cc8a1a3192d199dcc23fb 
+![tapabotonesplano](https://i.imgur.com/wilTyQD.png)
 
-- Tapa componentes
+- Tapa base
 
-![tapa componentes](https://i.imgur.com/AQvTPCN.png)
-https://cad.onshape.com/documents/2708c447667ea425a264cf2f/w/38c7acad58c95be3ffb36d0a/e/0ad5441a8f98fda14e1f39b1
-![tapacomponentesplano](https://i.imgur.com/vbwZ6ww.jpeg)
-
+![tapa componentes](https://i.imgur.com/AMUz6oY.png)
+- https://cad.onshape.com/documents/8a8d95f6aac5fabfae5a095a
+![tapacomponentesplano](https://i.imgur.com/2f1Y9L8.png)
 <p align="center"><strong>Planos diseñados por:</strong> Tiago Yeray Blanco Malpartida</p>
