@@ -15,6 +15,15 @@
 
 ![imagen1](https://i.imgur.com/EuKSWCx.png)
 
+- La vincha fue concebida con una forma de arco parecida a la vincha de uso corriente, dividiéndose en dos partes principales:
+
+- **Tapa frontal**
+- **Tapa posterior**
+
+La **tapa posterior** fue diseñada con el propósito de alojar los componentes electrónicos. Para asegurar su estabilidad, se incorporó una **estructura recta interna**, que cumple la función de fijar los elementos electrónicos en una única posición en la parte superior, evitando desplazamientos durante el uso.
+
+- Además, se diseñó un sistema de **ensamble ** entre ambas tapas. Este ensamble permite que, tras ser impresas, las piezas puedan **acoplarse fácilmente mediante un mecanismo de enganche**, posibilitando la apertura y el cierre de la vincha de forma práctica, facilitando tanto el montaje de los componentes como el mantenimiento del dispositivo.
+
 - Durante el desarrollo del modelo de vincha, se presentó una serie de situaciones que requirieron ajustes progresivos tanto en el diseño como en el enfoque general del proyecto. Inicialmente, el modelo contaba con una estructura cuya medida interna era de aproximadamente 15 centímetros, lo cual resultó ser insuficiente para adaptarse ergonómicamente a una cabeza humana promedio. Esto fue identificado durante una verificación previa a la impresión, lo cual permitió tomar acciones correctivas a tiempo. Se procedió a escalar la parte trasera del diseño con un factor de 1.333 en el eje X, logrando así alcanzar una medida interna de 20 centímetros. Sin embargo, esto generó un nuevo problema: la parte delantera de la vincha no fue escalada en conjunto, provocando una desalineación entre ambas piezas.
 - Este desajuste obligó a revisar manualmente las proporciones de cada parte y a realizar una comparación directa para identificar los factores exactos de escalado aplicados. A partir de ello, se corrigió también la parte frontal para que ambos elementos encajaran correctamente, sin comprometer la continuidad del diseño ni la funcionalidad del cierre.
 - Posteriormente, se detectó que el compartimiento central destinado a alojar los componentes se había modificado de forma no deseada tras el escalado. En lugar de ampliarse proporcionalmente, algunas áreas se volvieron menos útiles para alojar las piezas y se perdía espacio valioso. Para solucionar esto, se rediseñó el volumen interno mediante operaciones de corte, recuperando el espacio necesario para integrar los módulos de forma eficiente.
@@ -34,7 +43,7 @@
 
 ![imagen2](https://i.imgur.com/OBkpStt.png)
 
-- Adicionalmente, como parte del desarrollo, se diseñó también una botonera de dos botones que debía integrarse a otro sistema complementario. Esta parte del diseño presentó sus propios retos técnicos. Inicialmente, los orificios destinados a los switches tipo Redragon no encajaban correctamente, lo cual obligó a realizar varias iteraciones para ajustar su diámetro y profundidad. Además, se presentaron dificultades al momento de integrar el NanoArduino dentro de la carcasa, ya que su tamaño y disposición de pines exigían una redistribución del espacio interno. Otro detalle complejo fue el manejo de la entrada microUSB: su orientación y accesibilidad fueron problemáticas dentro del modelo original, por lo que se requirió modificar el diseño externo para permitir una conexión directa sin forzar el conector. Estas modificaciones fueron necesarias para asegurar la funcionalidad y durabilidad del conjunto, manteniendo siempre la simplicidad de uso como prioridad del proyecto.
+- Adicionalmente, como parte del desarrollo, se diseñó también una botonera de dos botones que debía integrarse a otro sistema complementario. Esta parte del diseño presentó sus propios retos técnicos. Inicialmente, los orificios destinados a los switches tipo Redragon no encajaban correctamente, lo cual obligó a realizar varias iteraciones para ajustar su diámetro y profundidad. Además, se presentaron dificultades al momento de integrar el Arduino pro micro dentro de la carcasa, ya que su tamaño y disposición de pines exigían una redistribución del espacio interno. Otro detalle complejo fue el manejo de la entrada microUSB: su orientación y accesibilidad fueron problemáticas dentro del modelo original, por lo que se requirió modificar el diseño externo para permitir una conexión directa sin forzar el conector. Estas modificaciones fueron necesarias para asegurar la funcionalidad y durabilidad del conjunto, manteniendo siempre la simplicidad de uso como prioridad del proyecto.
 
 ### - ERRORES IMPRESION 3D
 
