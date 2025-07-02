@@ -89,13 +89,11 @@ Prototipo multimodal basado en láser, controlado por movimientos de cabeza, emu
 
 ## Capturas y links de los componentes (Onshape)
 
-**ESP32 Dev [4]**  
-![imagen4](https://i.imgur.com/6DFdnXe.png)
 
 
 **MT3608 Converter [5]**  
-![imagen5](https://i.imgur.com/8CKUwUc.jpeg)
-
+![imagen5](https://i.imgur.com/WAEgJT8.png)
+- https://cad.onshape.com/documents/e02452d69f3cf72f6de63b40/w/901697ce36c91d37e53e1447/e/39c8df694a27cdc978f8670c 
 
 **MPU6050 v2 [6]**  
 ![imagen7](https://i.imgur.com/ExqJleb.jpeg)
@@ -104,9 +102,6 @@ Prototipo multimodal basado en láser, controlado por movimientos de cabeza, emu
 **Switch [7]**  
 ![imagen8](https://i.imgur.com/Ilv8QIn.jpeg)
 
-
-**ESP32 Mini S2 [8]**  
-![imagen9](https://i.imgur.com/AAXbXmY.jpeg)
 
 
 **TP4056 (módulo de cargador) [9]**  
