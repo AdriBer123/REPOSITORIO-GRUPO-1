@@ -22,7 +22,7 @@
 
 La **tapa posterior** fue diseñada con el propósito de alojar los componentes electrónicos. Para asegurar su estabilidad, se incorporó una **estructura recta interna**, que cumple la función de fijar los elementos electrónicos en una única posición en la parte superior, evitando desplazamientos durante el uso.
 
-- Además, se diseñó un sistema de **ensamble ** entre ambas tapas. Este ensamble permite que, tras ser impresas, las piezas puedan **acoplarse fácilmente mediante un mecanismo de enganche**, posibilitando la apertura y el cierre de la vincha de forma práctica, facilitando tanto el montaje de los componentes como el mantenimiento del dispositivo.
+- Además, se diseñó un sistema de ensamble entre ambas tapas. Este ensamble permite que, tras ser impresas, las piezas puedan acoplarse fácilmente mediante un mecanismo de enganche, posibilitando la apertura y el cierre de la vincha de forma práctica, facilitando tanto el montaje de los componentes como el mantenimiento del dispositivo.
 
 - Durante el desarrollo del modelo de vincha, se presentó una serie de situaciones que requirieron ajustes progresivos tanto en el diseño como en el enfoque general del proyecto. Inicialmente, el modelo contaba con una estructura cuya medida interna era de aproximadamente 15 centímetros, lo cual resultó ser insuficiente para adaptarse ergonómicamente a una cabeza humana promedio. Esto fue identificado durante una verificación previa a la impresión, lo cual permitió tomar acciones correctivas a tiempo. Se procedió a escalar la parte trasera del diseño con un factor de 1.333 en el eje X, logrando así alcanzar una medida interna de 20 centímetros. Sin embargo, esto generó un nuevo problema: la parte delantera de la vincha no fue escalada en conjunto, provocando una desalineación entre ambas piezas.
 - Este desajuste obligó a revisar manualmente las proporciones de cada parte y a realizar una comparación directa para identificar los factores exactos de escalado aplicados. A partir de ello, se corrigió también la parte frontal para que ambos elementos encajaran correctamente, sin comprometer la continuidad del diseño ni la funcionalidad del cierre.
@@ -42,6 +42,18 @@ La **tapa posterior** fue diseñada con el propósito de alojar los componentes 
 ### - BOTONES (MODELO ANTERIOR)
 
 ![imagen2](https://i.imgur.com/OBkpStt.png)
+
+Como segundo modelaje en el proceso de diseño 3D, se desarrollaron **dos botones físicos** que cumplen la función básica de un mouse: **clic izquierdo** y **clic derecho**. A diferencia de un mouse convencional, este sistema es **estático**, pensado para usuarios con movilidad reducida, permitiendo una interacción más accesible.
+
+- Se optó por un diseño **circular seccionado** para los botones, en lugar de una forma cuadrada tradicional. Esto fue pensado para brindar mayor **comodidad ergonómica** y facilitar su uso por parte del paciente, evitando formas toscas o difíciles de presionar.
+  
+- Los botones circulares fueron montados sobre una **caja base cuadrada**, que actúa como soporte estructural general del sistema.
+
+- En el interior de la caja se diseñó una **tapa interna** que permite:
+  - Fijar firmemente los **switches mecánicos** encargados de detectar las pulsaciones.
+  - Mantener una **altura adecuada** que asegure el paso y la correcta conexión del **Arduino Pro Micro**, el cual se encuentra posicionado estratégicamente entre ambos switches.
+  
+- Este diseño asegura que el Arduino pueda ser conectado directamente a la computadora mediante su puerto micro USB, permitiendo que los clics del usuario sean reconocidos como entradas estándar.
 
 - Adicionalmente, como parte del desarrollo, se diseñó también una botonera de dos botones que debía integrarse a otro sistema complementario. Esta parte del diseño presentó sus propios retos técnicos. Inicialmente, los orificios destinados a los switches tipo Redragon no encajaban correctamente, lo cual obligó a realizar varias iteraciones para ajustar su diámetro y profundidad. Además, se presentaron dificultades al momento de integrar el Arduino pro micro dentro de la carcasa, ya que su tamaño y disposición de pines exigían una redistribución del espacio interno. Otro detalle complejo fue el manejo de la entrada microUSB: su orientación y accesibilidad fueron problemáticas dentro del modelo original, por lo que se requirió modificar el diseño externo para permitir una conexión directa sin forzar el conector. Estas modificaciones fueron necesarias para asegurar la funcionalidad y durabilidad del conjunto, manteniendo siempre la simplicidad de uso como prioridad del proyecto.
 
